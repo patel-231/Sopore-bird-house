@@ -1,0 +1,4 @@
+body { background:#f7f8fb; font-family: system-ui, Arial, sans-serif; }
+.card-img { height:150px; object-fit:cover; }
+.product-card { min-height: 220px; }
+#inventory .card { height: 100%; }
